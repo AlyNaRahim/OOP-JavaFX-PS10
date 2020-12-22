@@ -16,7 +16,6 @@ For VM options: --module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,ja
 ![](img/ETC1.JPG)
 #
 ![](img/ETC2.JPG)
-#
-![](img/ETC3.JPG)
+
 
 
