@@ -33,8 +33,8 @@ public class ContactsModifiedController {
     private final ObservableList<ContactsModifiedDetails> students = FXCollections.observableArrayList();
 
     public void initialize(){
-        students.add(new ContactsModifiedDetails("Bruce", "Wayne", "batman@gmail.com", "+993939393", "ContactsAppModified/Images/Contacts/bruce.jpg"));
-        students.add(new ContactsModifiedDetails("Tony", "Stark", "ironman@gmail.com", "+993111111", "ContactsAppModified/Images/Contacts/tony.jpg"));
+        students.add(new ContactsModifiedDetails("Alica", "Wand", "acq@gmail.com", "+993939393", "ContactsModifiedApp/profile_img/p2.jpg"));
+        students.add(new ContactsModifiedDetails("Timothy", "Mark", "mark@gmail.com", "+993111111", "ContactsModifiedApp/profile_img/p1.jpeg"));
 
 
         //Collections.sort(students);
